@@ -2,6 +2,9 @@
 
 Welcome to the Hiring and Job Recruitment Application GitHub repository! This README provides a detailed guide on how to effectively use this application for seamless hiring and recruitment processes. Whether you're a recruiter or a job seeker, this platform simplifies and enhances the recruitment journey.
 
+<h3 align="center">Tech Stack :</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>  </p>
+
 ## Table of Contents
 1. [Registration](#registration)
 2. [Admin Validation](#admin-validation)
