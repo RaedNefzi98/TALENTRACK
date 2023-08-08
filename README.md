@@ -1,58 +1,61 @@
-Hiring and Job Recruitment Application User Guide
-Welcome to the Hiring and Job Recruitment Application! This comprehensive guide will walk you through the steps necessary to effectively use this platform for recruiting and managing job offers. Whether you're a recruiter or a job seeker, this application streamlines the recruitment process and enhances your experience.
+# Hiring and Job Recruitment Application
 
-Table of Contents
-Registration
-Admin Validation
-User Login
-Adding a Job Offer
-Job Offers Dashboard
-Recruiter Space
-Applying for a Job Offer
-Real-time Notifications
-Checking Applicant Profile
-Scheduling an Interview
-Applicant Notification
-Candidates Comparison
-Final Prehiring Test
-Steps
-1. Registration <a name="registration"></a>
-New users can create an account by providing their essential information. This initiates the recruitment journey, allowing users to either seek job offers or post openings.
+Welcome to the Hiring and Job Recruitment Application GitHub repository! This README provides a detailed guide on how to effectively use this application for seamless hiring and recruitment processes. Whether you're a recruiter or a job seeker, this platform simplifies and enhances the recruitment journey.
 
-2. Admin Validation <a name="admin-validation"></a>
-After registration, the user account awaits validation by the admin. Once approved, the user gains access to their account.
+## Table of Contents
+1. [Registration](#registration)
+2. [Admin Validation](#admin-validation)
+3. [User Login](#user-login)
+4. [Adding a Job Offer](#adding-a-job-offer)
+5. [Job Offers Dashboard](#job-offers-dashboard)
+6. [Recruiter Space](#recruiter-space)
+7. [Applying for a Job Offer](#applying-for-a-job-offer)
+8. [Real-time Notifications](#real-time-notifications)
+9. [Checking Applicant Profile](#checking-applicant-profile)
+10. [Scheduling an Interview](#scheduling-an-interview)
+11. [Applicant Notification](#applicant-notification)
+12. [Candidates Comparison](#candidates-comparison)
+13. [Final Prehiring Test](#final-prehiring-test)
 
-3. User Login <a name="user-login"></a>
-Users can log in to their validated accounts, accessing their personalized dashboard.
+## Steps
 
-4. Adding a Job Offer <a name="adding-a-job-offer"></a>
-Recruiters can add new job offers using a user-friendly form. This form captures all necessary details about the job.
+### 1. Registration <a name="registration"></a>
+Begin your journey by registering an account. Provide essential information to initiate the recruitment process.
 
-5. Job Offers Dashboard <a name="job-offers-dashboard"></a>
-Recruiters can view their posted job offers in a dedicated dashboard. They can manage and edit the offers as needed.
+### 2. Admin Validation <a name="admin-validation"></a>
+Upon registration, your account awaits admin validation. After approval, you'll gain access to your account.
 
-6. Recruiter Space <a name="recruiter-space"></a>
-Recruiters have their dedicated space where they can manage their job offers, applicant profiles, and recruitment processes.
+### 3. User Login <a name="user-login"></a>
+Log in to your validated account and access your personalized dashboard.
 
-7. Applying for a Job Offer <a name="applying-for-a-job-offer"></a>
-Job seekers can apply for posted job offers using a straightforward application process.
+### 4. Adding a Job Offer <a name="adding-a-job-offer"></a>
+Recruiters can post job offers using a user-friendly form, capturing comprehensive job details.
 
-8. Real-time Notifications <a name="real-time-notifications"></a>
-Users receive real-time notifications for critical events, such as job application submissions, interview scheduling, and more.
+### 5. Job Offers Dashboard <a name="job-offers-dashboard"></a>
+Recruiters can manage and edit posted job offers through their dedicated dashboard.
 
-9. Checking Applicant Profile <a name="checking-applicant-profile"></a>
-Recruiters can review applicant profiles, including their qualifications, experience, and submitted materials.
+### 6. Recruiter Space <a name="recruiter-space"></a>
+Access your recruiter space to manage job offers, applicant profiles, and the entire recruitment process.
 
-10. Scheduling an Interview <a name="scheduling-an-interview"></a>
-Recruiters can schedule interviews with selected applicants. The interview details are sent directly to the applicant.
+### 7. Applying for a Job Offer <a name="applying-for-a-job-offer"></a>
+Job seekers can apply for job offers using a straightforward application process.
 
-11. Applicant Notification <a name="applicant-notification"></a>
-Applicants receive real-time notifications when their application status changes or when an interview is scheduled.
+### 8. Real-time Notifications <a name="real-time-notifications"></a>
+Receive real-time notifications for critical events such as job application submissions and interview scheduling.
 
-12. Candidates Comparison <a name="candidates-comparison"></a>
-In the recruiter space, a specialized section allows recruiters to compare applicant profiles, strengths, and weaknesses via real-time graphs and information.
+### 9. Checking Applicant Profile <a name="checking-applicant-profile"></a>
+Recruiters can review applicant profiles, including qualifications and submitted materials.
 
-13. Final Prehiring Test <a name="final-prehiring-test"></a>
-Recruiters can assign a final prehiring test to selected applicants, assessing their skills and suitability for the role.
+### 10. Scheduling an Interview <a name="scheduling-an-interview"></a>
+Recruiters can schedule interviews with selected applicants, with interview details sent directly to the applicant.
 
-Congratulations! You now have a comprehensive overview of how to use the Hiring and Job Recruitment Application. Whether you're a recruiter or a job seeker, this platform is designed to simplify and enhance the recruitment process. If you have any further questions or need assistance, feel free to refer to the user guide or contact our support team. Happy recruiting!
+### 11. Applicant Notification <a name="applicant-notification"></a>
+Applicants receive real-time notifications for application status changes and interview scheduling.
+
+### 12. Candidates Comparison <a name="candidates-comparison"></a>
+Utilize the recruiter space to compare applicant profiles, strengths, and weaknesses via real-time graphs and information.
+
+### 13. Final Prehiring Test <a name="final-prehiring-test"></a>
+Recruiters can assign final prehiring tests to selected applicants, assessing skills and suitability.
+
+Congratulations! You're now equipped with a comprehensive guide on how to use the Hiring and Job Recruitment Application. Whether you're a recruiter or a job seeker, this platform streamlines and enhances the recruitment process. If you have any questions or need assistance, please refer to this guide or contact our support team. Happy recruiting!
